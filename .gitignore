@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ImageSorter/bin/Debug
+/ImageSorter/obj/Debug
+/.vs/ImageSorter/v14
